@@ -13,3 +13,4 @@ The solution integrates Python (for preprocessing & summarization) and Power BI 
 🔹 Tech Stack: Python, Power BI, Hugging Face Transformers, Pandas, TQDM
 🔹 Data Source: ServiceNow (Critical Incident Management module)
 🔹 AI Integration: BART-large-CNN model for summarizing incident notes
+<img width="622" height="337" alt="image" src="https://github.com/user-attachments/assets/53d80503-e26c-44ce-9268-8c0f196bd745" />
